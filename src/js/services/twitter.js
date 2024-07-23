@@ -41,12 +41,12 @@ module.exports = function (shariff) {
   return {
     popup: true,
     shareText: {
-      en: 'tweet',
-      ja: 'のつぶやき',
-      ko: '짹짹',
-      ru: 'твит',
-      sr: 'твеет',
-      zh: '鸣叫',
+      en: 'post',
+      ja: '投稿',
+      ko: '게시물',
+      ru: 'Посты',
+      sr: 'pošta',
+      zh: '职位',
     },
     name: 'twitter',
     faPrefix: 'fab fa-brands',
