@@ -49,8 +49,8 @@ module.exports = function (shariff) {
       zh: '鸣叫',
     },
     name: 'twitter',
-    faPrefix: 'fab',
-    faName: 'fa-twitter',
+    faPrefix: 'fab fa-brands',
+    faName: 'fa-x-twitter',
     title: {
       bg: 'Сподели в Twitter',
       cs: 'Sdílet na Twiiteru',
