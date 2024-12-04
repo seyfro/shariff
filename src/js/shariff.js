@@ -50,9 +50,11 @@ const Defaults = {
   referrerTrack: null,
 
   // services to be enabled in the following order
-  services: ['twitter', 'facebook', 'info'],
+  services: ['bluesky', 'facebook', 'info'],
 
   title: global.document.title,
+
+  blueksyVia: null,
 
   twitterVia: null,
 

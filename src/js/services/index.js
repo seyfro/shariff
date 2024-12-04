@@ -20,6 +20,7 @@ module.exports = {
   threema: require('./threema'),
   tumblr: require('./tumblr'),
   twitter: require('./twitter'),
+  bluesky: require('./bluesky'),
   vk: require('./vk'),
   weibo: require('./weibo'),
   whatsapp: require('./whatsapp'),
